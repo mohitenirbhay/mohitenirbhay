@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohitenirbhay
-- 👀 I’m interested in game development
+- 👀 Interested in game development
 - 📫 How to reach me - LinkedIn
 
 
