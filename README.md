@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mohitenirbhay
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning python
 - 📫 How to reach me - LinkedIn
 
 
